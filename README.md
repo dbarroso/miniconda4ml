@@ -8,5 +8,5 @@ Using continuumio/miniconda as a base, an environment file is copied and then cr
 
 You can create a new docker container with this environment created and activated using the following command
 
-''' docker build -t containerName .
-docker run -it containername'''
+``` docker build -t containerName .
+docker run -it containername```
